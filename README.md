@@ -19,7 +19,7 @@ This Python script allows you to send emails with an optional file attachment us
 
 1. **Clone the Repository** (if applicable):
     ```bash
-    git clone https://github.com/dharmendradiwaker/email-sender-script.git
+    git clone https://github.com/dharmendradiwaker/Email-Automation.git
     cd email-sender-script
     ```
 
